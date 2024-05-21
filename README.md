@@ -7,28 +7,7 @@ This project involves analyzing sales data from Vrinda-Store to gain insights in
 
 Repository Contents
 Vrinda-Store Data Analysis.xlsx: The main Excel workbook containing the data and analysis.
-README.md: This file, providing an overview and instructions for the project.
-data/: Directory containing raw and processed data files.
-docs/: Directory containing any additional documentation or reports generated.
-Getting Started
-Prerequisites
-To view and interact with the Excel workbook, you will need:
 
-Microsoft Excel (2010 or later) or any compatible spreadsheet software.
-Setup Instructions
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/yourusername/vrinda-store-data-analysis.git
-Navigate to the project directory:
-bash
-Copy code
-cd vrinda-store-data-analysis
-Data Files
-The data directory includes the following files:
-
-sales_data.csv: The raw sales data exported from the Vrinda-Store system.
-processed_data.xlsx: The processed data used for analysis in the main Excel workbook.
 Analysis Outline
 The analysis in the Excel workbook includes the following sections:
 
